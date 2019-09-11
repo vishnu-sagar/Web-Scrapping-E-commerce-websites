@@ -50,7 +50,8 @@ paste all the files in the github folder to the above created project location a
 
 navigate to the settings.py file and specify the path where your csv file has to be saved (please don&#39;t replace the &#39;r&#39;)
  ![alt text](https://github.com/vishnu-sagar/Web-Scrapping-E-commerce-websites/blob/master/scraping%20e-commerce%20sites/screens/file.PNG)
- ![]
+ 
+ 
 That&#39;s it you are ready !!!!!
 
 **LAST STEP**(**don&#39;t get tired)
@@ -60,7 +61,8 @@ To start crawling run
 scrapy crawl flip\_spider
 
 you will be prompted to enter the desired product name
-![alt text](https://github.com/vishnu-sagar/data-science/blob/master/scraping%20e-commerce%20sites/screens/input.PNG)
+![alt text](https://github.com/vishnu-sagar/Web-Scrapping-E-commerce-websites/blob/master/scraping%20e-commerce%20sites/screens/input.PNG)
+
 
 SMASH that ENTER key!!!!!!!!!!.
 
@@ -80,8 +82,8 @@ I am  working for further releases for the extensive use of customers.
 ## **Screenshots:**
 
 ###Demo outplut:
-![alt text](https://github.com/vishnu-sagar/data-science/blob/master/scraping%20e-commerce%20sites/screens/output.PNG)
-Thanks for your time.
+![alt text](https://github.com/vishnu-sagar/Web-Scrapping-E-commerce-websites/blob/master/scraping%20e-commerce%20sites/screens/output.PNG)
+
 
 Please take a look at the videos in demo videos folder :)
 
