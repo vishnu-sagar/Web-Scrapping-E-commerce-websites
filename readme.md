@@ -49,7 +49,7 @@ paste all the files in the github folder to the above created project location a
 **STEP-4**
 
 navigate to the settings.py file and specify the path where your csv file has to be saved (please don&#39;t replace the &#39;r&#39;)
- ![alt text](https://github.com/vishnu-sagar/data-science/blob/master/scraping%20e-commerce%20sites/screens/file.PNG)
+ ![alt text](https://github.com/vishnu-sagar/Web-Scrapping-E-commerce-websites/blob/master/scraping%20e-commerce%20sites/screens/file.PNG)
  ![]
 That&#39;s it you are ready !!!!!
 
