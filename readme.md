@@ -1,6 +1,6 @@
 
-#
-# E-shopping-scraper
+#welcome
+# E-shopping-scraper 
 
 Python attacking E-commerce sites :)
 
