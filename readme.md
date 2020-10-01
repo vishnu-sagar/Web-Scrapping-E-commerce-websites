@@ -10,7 +10,7 @@ scrapy crawl flip\_spider
 
 ## **Description:**
 
-This is a python based project which is used to scrape the online shopping sites search results page. It chooses the first product to appear on the search result of the product user inputs from 5 different websites and exports it to the csv file and opens it automatically.Once you started gathering the data, you could do run many analysis like price range variation, offers, stock status, Link for the product, Ratings…
+This is a python based project which is used to scrape the online shopping sites search results page. It chooses the first product to appear on the search result of the product user inputs from 5 different websites and exports it to the csv file and opens it automatically.Once you start gathering the data, you can run many analysis like price range variation, offers, stock status, Link for the product, Ratings…
 
 in screens directory I have uploaded our first version screenshots. you can take a look and give us the feedback.
 
